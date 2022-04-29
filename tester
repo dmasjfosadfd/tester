@@ -1,0 +1,3 @@
+ getgenv().LockOnKey = "q" -- aimbots lock on keybind DO NOT USE capital letters!
+getgenv().LockOffKey = "q"        -- aimbots lock off keybind DO NOT USE capital letters!                    
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/NOTLONTOP/dd/Hey/DAHOODMODDED", true))()
